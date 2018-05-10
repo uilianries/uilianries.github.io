@@ -1630,10 +1630,10 @@
 
 	body {
 		background-color: #000000;
-		background-image: url("images/overlay.jpg"), -moz-linear-gradient(45deg, #000000 15%, #000000 85%);
-		background-image: url("images/overlay.jpg"), -webkit-linear-gradient(45deg, #000000 15%, #000000 85%);
-		background-image: url("images/overlay.jpg"), -ms-linear-gradient(45deg, #000000 15%, #000000 85%);
-		background-image: url("images/overlay.jpg"), linear-gradient(45deg, #000000 15%, #000000 85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #000000 15%, #000000 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #000000 15%, #000000 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #000000 15%, #000000 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #000000 15%, #000000 85%);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {

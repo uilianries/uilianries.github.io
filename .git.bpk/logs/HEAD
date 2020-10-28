@@ -1,0 +1,42 @@
+0000000000000000000000000000000000000000 5dd528cbae0801b940096dc588a504da30bbea20 Your Name <you@example.com> 1603825494 -0500	commit (initial): Cleared web
+5dd528cbae0801b940096dc588a504da30bbea20 e882cd12a4868c78fd9493215ecf71c5ae0c7dab Uilian Ries <uilianries@gmail.com> 1603826376 -0300	checkout: moving from gh-pages to hotfix/404
+e882cd12a4868c78fd9493215ecf71c5ae0c7dab d24b033ae79704a4d2d787c7042eccbde60e1e35 Uilian Ries <uilianries@gmail.com> 1603826399 -0300	commit: dont deploy
+d24b033ae79704a4d2d787c7042eccbde60e1e35 5dd528cbae0801b940096dc588a504da30bbea20 Your Name <you@example.com> 1603826420 -0500	checkout: moving from hotfix/404 to gh-pages
+5dd528cbae0801b940096dc588a504da30bbea20 d24b033ae79704a4d2d787c7042eccbde60e1e35 Your Name <you@example.com> 1603826422 -0500	checkout: moving from gh-pages to hotfix/404
+d24b033ae79704a4d2d787c7042eccbde60e1e35 5dd528cbae0801b940096dc588a504da30bbea20 Your Name <you@example.com> 1603826527 -0500	checkout: moving from hotfix/404 to gh-pages
+5dd528cbae0801b940096dc588a504da30bbea20 a84ae66aa871a85b57ce5dcb802cbfbeaf6793ae Your Name <you@example.com> 1603826529 -0500	commit: committed version 1.30
+a84ae66aa871a85b57ce5dcb802cbfbeaf6793ae ef9ce18909187d9ca2d0aaa4d3fadad2160370d0 Your Name <you@example.com> 1603826530 -0500	commit: committed version 1.30
+ef9ce18909187d9ca2d0aaa4d3fadad2160370d0 d24b033ae79704a4d2d787c7042eccbde60e1e35 Uilian Ries <uilianries@gmail.com> 1603826683 -0300	checkout: moving from gh-pages to hotfix/404
+d24b033ae79704a4d2d787c7042eccbde60e1e35 381a351c46f7414341534e0d4315afcf996afa75 Uilian Ries <uilianries@gmail.com> 1603827246 -0300	commit: Restore
+381a351c46f7414341534e0d4315afcf996afa75 e882cd12a4868c78fd9493215ecf71c5ae0c7dab Uilian Ries <uilianries@gmail.com> 1603827308 -0300	rebase (start): checkout HEAD~3
+e882cd12a4868c78fd9493215ecf71c5ae0c7dab 42aeac87964b1848e3aee252c6b6f643015cdfc7 Uilian Ries <uilianries@gmail.com> 1603827308 -0300	rebase (squash): ; This is a combination of 2 commits.
+42aeac87964b1848e3aee252c6b6f643015cdfc7 ece88d3ae96f0f22f7c1417a70f61600358bcac7 Uilian Ries <uilianries@gmail.com> 1603827308 -0300	rebase (squash): Update 404 HTML
+ece88d3ae96f0f22f7c1417a70f61600358bcac7 ece88d3ae96f0f22f7c1417a70f61600358bcac7 Uilian Ries <uilianries@gmail.com> 1603827308 -0300	rebase (finish): returning to refs/heads/hotfix/404
+ece88d3ae96f0f22f7c1417a70f61600358bcac7 ef9ce18909187d9ca2d0aaa4d3fadad2160370d0 Uilian Ries <uilianries@gmail.com> 1603827990 -0300	checkout: moving from hotfix/404 to gh-pages
+ef9ce18909187d9ca2d0aaa4d3fadad2160370d0 8394aa9a94d65a3a89d5dd150f20f82867336f64 Uilian Ries <uilianries@gmail.com> 1603883493 -0300	checkout: moving from gh-pages to master
+8394aa9a94d65a3a89d5dd150f20f82867336f64 ced077383bb7ddf0c00250aa03c26f82c3885832 Uilian Ries <uilianries@gmail.com> 1603883535 -0300	pull upstream master: Fast-forward
+ced077383bb7ddf0c00250aa03c26f82c3885832 ced077383bb7ddf0c00250aa03c26f82c3885832 Uilian Ries <uilianries@gmail.com> 1603883586 -0300	checkout: moving from master to hotfix/404-menu
+ced077383bb7ddf0c00250aa03c26f82c3885832 ef9ce18909187d9ca2d0aaa4d3fadad2160370d0 Uilian Ries <uilianries@gmail.com> 1603883608 -0300	checkout: moving from hotfix/404-menu to gh-pages
+ef9ce18909187d9ca2d0aaa4d3fadad2160370d0 0f82525ebd963d5393dc5bffcecfce37d552c8f5 Uilian Ries <uilianries@gmail.com> 1603883635 -0300	reset: moving to upstream/gh-pages
+0f82525ebd963d5393dc5bffcecfce37d552c8f5 ced077383bb7ddf0c00250aa03c26f82c3885832 Uilian Ries <uilianries@gmail.com> 1603884053 -0300	checkout: moving from gh-pages to hotfix/404-menu
+ced077383bb7ddf0c00250aa03c26f82c3885832 1a0ca4ce4f772a69898fad53f78851a29e4a5d75 Uilian Ries <uilianries@gmail.com> 1603884451 -0300	commit: Fix 404 side menu
+1a0ca4ce4f772a69898fad53f78851a29e4a5d75 0f82525ebd963d5393dc5bffcecfce37d552c8f5 Uilian Ries <uilianries@gmail.com> 1603884461 -0300	checkout: moving from hotfix/404-menu to gh-pages
+0f82525ebd963d5393dc5bffcecfce37d552c8f5 1a0ca4ce4f772a69898fad53f78851a29e4a5d75 Uilian Ries <uilianries@gmail.com> 1603884499 -0300	checkout: moving from gh-pages to hotfix/404-menu
+1a0ca4ce4f772a69898fad53f78851a29e4a5d75 a58907329dc57e086a8500ed0654bad7863a091e Uilian Ries <uilianries@gmail.com> 1603885875 -0300	commit: Test new changes
+a58907329dc57e086a8500ed0654bad7863a091e a58907329dc57e086a8500ed0654bad7863a091e Uilian Ries <uilianries@gmail.com> 1603885894 -0300	checkout: moving from hotfix/404-menu to hotfix/404-menu
+a58907329dc57e086a8500ed0654bad7863a091e a58907329dc57e086a8500ed0654bad7863a091e Uilian Ries <uilianries@gmail.com> 1603885899 -0300	reset: moving to HEAD
+a58907329dc57e086a8500ed0654bad7863a091e a58907329dc57e086a8500ed0654bad7863a091e Uilian Ries <uilianries@gmail.com> 1603885900 -0300	checkout: moving from hotfix/404-menu to hotfix/404-menu
+a58907329dc57e086a8500ed0654bad7863a091e 0f82525ebd963d5393dc5bffcecfce37d552c8f5 conan <conan@8f2d4f2ed6e5.(none)> 1603885949 +0000	checkout: moving from hotfix/404-menu to gh-pages
+0f82525ebd963d5393dc5bffcecfce37d552c8f5 a58907329dc57e086a8500ed0654bad7863a091e conan <conan@8f2d4f2ed6e5.(none)> 1603885950 +0000	checkout: moving from gh-pages to hotfix/404-menu
+a58907329dc57e086a8500ed0654bad7863a091e 0f82525ebd963d5393dc5bffcecfce37d552c8f5 conan <conan@8f2d4f2ed6e5.(none)> 1603886045 +0000	checkout: moving from hotfix/404-menu to gh-pages
+0f82525ebd963d5393dc5bffcecfce37d552c8f5 0f82525ebd963d5393dc5bffcecfce37d552c8f5 Uilian Ries <uilianries@gmail.com> 1603886182 -0300	reset: moving to HEAD
+0f82525ebd963d5393dc5bffcecfce37d552c8f5 a58907329dc57e086a8500ed0654bad7863a091e Uilian Ries <uilianries@gmail.com> 1603886192 -0300	checkout: moving from gh-pages to hotfix/404-menu
+a58907329dc57e086a8500ed0654bad7863a091e 1a0ca4ce4f772a69898fad53f78851a29e4a5d75 Uilian Ries <uilianries@gmail.com> 1603886210 -0300	reset: moving to 1a0ca4ce4f772a69898fad53f78851a29e4a5d75
+1a0ca4ce4f772a69898fad53f78851a29e4a5d75 ced077383bb7ddf0c00250aa03c26f82c3885832 Uilian Ries <uilianries@gmail.com> 1603886529 -0300	checkout: moving from hotfix/404-menu to master
+ced077383bb7ddf0c00250aa03c26f82c3885832 ced077383bb7ddf0c00250aa03c26f82c3885832 Uilian Ries <uilianries@gmail.com> 1603886550 -0300	checkout: moving from master to docs/gh-pages-local
+ced077383bb7ddf0c00250aa03c26f82c3885832 cdc8710782455d1aff6dbf91f274f252c8d86abb Uilian Ries <uilianries@gmail.com> 1603887787 -0300	commit: Add details how to test gh-pages
+cdc8710782455d1aff6dbf91f274f252c8d86abb 0f82525ebd963d5393dc5bffcecfce37d552c8f5 Uilian Ries <uilianries@gmail.com> 1603912710 -0300	checkout: moving from docs/gh-pages-local to gh-pages
+0f82525ebd963d5393dc5bffcecfce37d552c8f5 e0ee56793d4266757361cea93a5862cb037c2f24 Uilian Ries <uilianries@gmail.com> 1603917524 -0300	reset: moving to upstream/gh-pages
+e0ee56793d4266757361cea93a5862cb037c2f24 e0ee56793d4266757361cea93a5862cb037c2f24 Uilian Ries <uilianries@gmail.com> 1603920483 -0300	checkout: moving from gh-pages to gh-pages
+e0ee56793d4266757361cea93a5862cb037c2f24 e0ee56793d4266757361cea93a5862cb037c2f24 Uilian Ries <uilianries@gmail.com> 1603920497 -0300	reset: moving to upstream/gh-pages
+e0ee56793d4266757361cea93a5862cb037c2f24 e0ee56793d4266757361cea93a5862cb037c2f24 Uilian Ries <uilianries@gmail.com> 1603920656 -0300	reset: moving to upstream/gh-pages

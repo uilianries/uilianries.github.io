@@ -19,7 +19,7 @@ that you get an error like the following one:
 
     ERROR: Missing prebuilt package for 'czmq/4.2.0'
     Try to build it from sources with "--build czmq"
-    Or read "http://docs.conan.io/en/latest/faq/troubleshooting.html#error-missing-prebuilt-package"
+    Or read "http://uilianries.github.io/en/latest/faq/troubleshooting.html#error-missing-prebuilt-package"
 
 
 This means that the package recipe ``czmq/4.2.0@`` exists, but for some reason
@@ -54,7 +54,7 @@ that you receive a message like this:
 
     ERROR: Invalid setting '4.19' is not a valid 'settings.compiler.version' value.
     Possible values are ['4.4', '4.5', '4.6', '4.7', '4.8', '4.9', '5.1', '5.2', '5.3', '5.4', '6.1', '6.2']
-    Read "http://docs.conan.io/en/latest/faq/troubleshooting.html#error-invalid-setting"
+    Read "http://uilianries.github.io/en/latest/faq/troubleshooting.html#error-invalid-setting"
 
 
 This doesn't mean that such architecture is not supported by conan, it is just that it is not present in the actual

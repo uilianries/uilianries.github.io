@@ -51,7 +51,7 @@ Prepare your recipes
 --------------------
 
 First of all, the recipe of the application to be deployed to the final image should have a
-`deploy() method <https://docs.conan.io/en/latest/devtools/running_packages.html>`_. There you can specify the files of the application
+`deploy() method <https://uilianries.github.io/en/latest/devtools/running_packages.html>`_. There you can specify the files of the application
 needed in the image as well as any other from its dependencies (like shared libraries or assets):
 
 .. code-block:: python
